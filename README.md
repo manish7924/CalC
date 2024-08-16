@@ -60,6 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer**: [Manish Chidar](https://manish7924.github.io/My-Portfolio/)
 - **Email**: manishchidar79@gmail.com
 
----
-
-Feel free to customize this template to better suit your project and personal style!
