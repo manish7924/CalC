@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-x.git
+   git clone https://github.com/manish7924/CalC.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
@@ -57,8 +57,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Developer**: [Your Name](https://yourwebsite.com)
-- **Email**: your.email@example.com
+- **Developer**: [Manish Chidar](https://manish7924.github.io/My-Portfolio/)
+- **Email**: manishchidar79@gmail.com
 
 ---
 
