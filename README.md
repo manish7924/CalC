@@ -13,7 +13,9 @@
 
 ## Screenshots
 
-*(Include screenshots of the app here to showcase the UI and features.)*
+*(https://raw.githubusercontent.com/manish7924/CalC/master/app/src/main/res/drawable/1.png)*
+
+*(https://raw.githubusercontent.com/manish7924/CalC/master/app/src/main/res/drawable/2.png)*
 
 ## Getting Started
 
